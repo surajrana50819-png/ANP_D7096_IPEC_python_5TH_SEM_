@@ -1,11 +1,4 @@
-# Problem Statement 5: Vowel Counter using Function
-# -------------------------------------------------
-# Function: count_vowels(text)
-# • Accepts a string
-# • Counts total vowels (a, e, i, o, u) irrespective of case
-# • Returns total vowel count
-# -------------------------------------------------
-
+# Vowel Counter using Function
 # User-defined Function
 def count_vowels(text):
     vowels = "aeiouAEIOU"   # both lowercase and uppercase

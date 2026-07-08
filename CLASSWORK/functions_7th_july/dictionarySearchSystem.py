@@ -1,11 +1,4 @@
-# Problem Statement 4: Dictionary Search System
-# -------------------------------------------------
-# Function: search_student(student_dict, roll_no)
-# • Accepts dictionary (Key = Roll Number, Value = Student Name)
-# • Searches for given roll number
-# • Returns student name if found, else "Student Not Found"
-# -------------------------------------------------
-
+# Dictionary Search System
 # User-defined Function
 def search_student(student_dict, roll_no):
     if roll_no in student_dict:
